@@ -1,3 +1,5 @@
+![Upload Python Package](https://github.com/Facing-South/MotionCamera/workflows/Upload%20Python%20Package/badge.svg)
+
 # MotionCamera
 This project includes a surveillance camera system with any number of clients that can be switched on and off via a central interface. It should be possible to store recorded images on the network drive and, if necessary, to start a live stream from a targeted camera.
 
