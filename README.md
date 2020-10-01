@@ -18,7 +18,7 @@ This project includes a surveillance camera system with any number of clients th
 
 Sketch             |  Pins
 :-------------------------:|:-------------------------:
-![](https://www.facing-south.com/external/motioncamera.jpg)  |  ![](https://roboticsbackend.com/wp-content/uploads/2019/05/raspberry-pi-3-pinout.jpg)
+![](https://www.facing-south.com/img/motioncamera.PNG)  |  ![](https://roboticsbackend.com/wp-content/uploads/2019/05/raspberry-pi-3-pinout.jpg)
 
 In the MitionCamera.pdf is a scetch of the build of the Raspberry-Pi with the Motion-Sensor and the Camera. Do not use other Pins on your own and build this scetch like its shown in the scetch. If you have done the installation correctly and power on the Raspberry-Pi without an image, the red LED should be one, if motion gets tracked. Note that the picture pins must be rotated 180 degrees so that the order of the pins matches the positioning of the Raspberry Pi with the sketch.
 
