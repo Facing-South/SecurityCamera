@@ -216,3 +216,10 @@ At this point, too, the "XXXXX" must be replaced by the determined group ID.
 
 ## Finish
 Now that all points have been followed, your own surveillance system should work and the captured images should be sent to the Telegram group. Remember that the recordings may only be taken within the framework of the law. Have fun using it.
+
+# Contribution
+I am very happy about each of you who want to expand the code with me. Please follow the following guidelines:
+
+- Add an issue to this repository and give it a name
+- Fork this repository and add your changes
+- Create a pull-request with your changes
