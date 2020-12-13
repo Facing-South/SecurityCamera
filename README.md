@@ -1,4 +1,4 @@
-# MotionCamera
+# Security-Camera
 
 |License| Discord| Maintained|
 | :-: | :-: | :-: |
